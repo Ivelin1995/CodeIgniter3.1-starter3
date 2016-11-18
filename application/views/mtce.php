@@ -12,3 +12,5 @@
 	</tr>
 	{/items}
 </table>
+
+<a class="btn btn-default" role="button" href="/crud/add">Add a new menu item</a>
